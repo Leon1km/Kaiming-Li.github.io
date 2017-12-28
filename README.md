@@ -1,21 +1,20 @@
 Welcome to
 # Kaiming Li's HomePage!
-##  
-##  
-##  
+
+
 ## Curriculum Vitea
 
 
 
 ```markdown
 
-Kaiming Li
+**Kaiming Li**
 
 ```
 
-`# Education`
-Nanjing University, Nanjing, Jiangsu Province.
+# `Education`
 
+Nanjing University, Nanjing, Jiangsu Province, China.
 Junior student，School of Life Sciences. 
 Major: biology. (September 2015- present)
 
@@ -38,7 +37,6 @@ Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Con
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
