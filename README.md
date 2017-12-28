@@ -1,18 +1,27 @@
-## Welcome to Kaiming Li's HomePage
+## Welcome to Kaiming Li's HomePage!
 
 You can use the [editor on GitHub](https://github.com/Kaiming-Li/Kaiming-Li.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### CV
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Curriculum Vitea
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
+
+```
+
+```markdown
+Kaiming Li
+
+# Education
+
+Nanjing University, Nanjing, Jiangsu Province
+Junior student，School of Life Sciences. 
+Major: biology. (September 2015- present)
+
+# Awards
+
 ### Header 3
 
 - Bulleted
