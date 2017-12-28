@@ -1,28 +1,33 @@
 ## Welcome to Kaiming Li's HomePage!
 
-You can use the [editor on GitHub](https://github.com/Kaiming-Li/Kaiming-Li.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-#### Curriculum Vitea
-
-```markdown
 
 
-```
+### `Curriculum Vitea`
+
+
 
 ```markdown
 Kaiming Li
 
 # Education
-
 Nanjing University, Nanjing, Jiangsu Province
 Junior student，School of Life Sciences. 
 Major: biology. (September 2015- present)
 
 # Awards
+The Second Grade Award in the 20th Forum of Sciences and Arts of Nanjing University (2017).
+Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), Undergraduates (2017).
+Excellence Award in the Third Exhibition of Undergraduate’s Scientific Research (2017).
+National project in Student's Platform for Innovation and Entrepreneurship Training Program (2017).
+Third Award in the Exhibition of Academic Works of Philosophy and Social Sciences and Second Award in the Exhibition of Academic Works of Sciences and Inventions (2016). 
+Third Award in the Preliminary Round of 2016 “FLTRP Cup” English Writing Contest (2016). 
+The First Grade Award in the 19th Forum of Sciences and Arts of Nanjing University (2016).
+Scientific and Technological Innovation Scholarship (2016).
+Excellence Award in the “Chembeauty” Photo Competition (2016).
+Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Contest (2015).
 
-### Header 3
+# Research Experience
+
 
 - Bulleted
 - List
