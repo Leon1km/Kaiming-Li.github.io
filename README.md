@@ -12,9 +12,10 @@ Welcome to
 
 
 **`Education`**
-Nanjing University, Nanjing, Jiangsu Province, China.
-Junior student，School of Life Sciences. 
-Major: biology. (September 2015- present)
+
+## Nanjing University, Nanjing, Jiangsu Province, China.
+## Junior student，School of Life Sciences. 
+## Major: biology. (September 2015- present)
 
 `# Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (2017).
