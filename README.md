@@ -1,18 +1,17 @@
 Welcome to
-# Kaiming Li's HomePage!
-
-
-## Curriculum Vitea
-
-
+# **Kaiming Li's**  HomePage!
 
 ```markdown
-
-**Kaiming Li**
-
+# Curriculum Vitea
 ```
 
-# `Education`
+
+
+
+Kaiming Li
+
+
+**`Education`**
 
 Nanjing University, Nanjing, Jiangsu Province, China.
 Junior student，School of Life Sciences. 
