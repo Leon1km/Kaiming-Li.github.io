@@ -20,7 +20,7 @@ Major: biology. (`Sept. 2015- present`)
 ## `Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (`2017`).
 
-Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), Undergraduates (`2017`). [Details→](https://github.com/Kaiming-Li/Kaiming-Li.github.io/settings)
+Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), [Undergraduates](http://igem.org/Team.cgi) (`2017`). [Details→](http://2017.igem.org/Team:NJU-China)
 
 Excellence Award in the Third Exhibition of Undergraduate’s Scientific Research (`2017`).
 
@@ -39,7 +39,7 @@ Excellence Award in the “Chembeauty” Photo Competition (`2016`).
 Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Contest (`2015`).
 
 
-`# Research Experience`
+## `Research Experience`
 
 
 **Bold** and _Italic_ and `Code` text
