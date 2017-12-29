@@ -82,8 +82,7 @@ Interests include swimming, traveling, reading, cooking, hiking and singing.
 
 ### Any questions? Feel free to contact me! 
 
-<a href="mailto:151140027@smail.nju.edu.cn">Email</a>
-[_`ResearchGate`_](https://www.researchgate.net/profile/Kaiming_Li6) |
+<a href="mailto:151140027@smail.nju.edu.cn">Email</a>  |  [_`ResearchGate`_](https://www.researchgate.net/profile/Kaiming_Li6)  | 
 [_`LinkedIn`_](https://www.linkedin.com/in/kaiming-li-424342126/)
 
 ### Links
