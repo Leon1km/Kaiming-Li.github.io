@@ -14,6 +14,8 @@ Nanjing University
 
 Qixia District, Nanjing 210023
 
+151140027@smail.nju.edu.cn
+
 ## `Education`
 Junior student.
 
@@ -79,7 +81,7 @@ Member, Association of Cantonese and Cantonese Culture. Organized Cantonese sing
 Interests include swimming, traveling, reading, cooking, hiking and singing.
 
 ### Any questions? Feel free to contact me! 
-151140027@smail.nju.edu.cn
-[ResearchGate](https://www.researchgate.net/profile/Kaiming_Li6)
+<a href=mailto:151140027@smail.nju.edu.cn>151140027@smail.nju.edu.cn</a>|
+[_`ResearchGate`_](https://www.researchgate.net/profile/Kaiming_Li6)
 
 ### Links
