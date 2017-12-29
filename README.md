@@ -2,22 +2,22 @@ Welcome to
 # **Kaiming Li**'s HomePage!
 
 ```markdown
-
 # Curriculum Vitea
-
 ```
 
 ## **Kaiming Li**
 
 ## `Education`
 Junior student.
+
 School of Life Sciences, Nanjing University, Nanjing, Jiangsu Province, China.
+
 Major: biology. (`Sept. 2015- present`)
 
 ## `Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (`2017`).
 
-Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), [Undergraduates](http://igem.org/Team.cgi) (`2017`). [Details→](http://2017.igem.org/Team:NJU-China)
+Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), Undergraduates (`2017`). [Details→](http://2017.igem.org/Team:NJU-China)
 
 Excellence Award in the Third Exhibition of Undergraduate’s Scientific Research (`2017`).
 
