@@ -11,9 +11,7 @@ Welcome to
 
 ## `Education`
 Junior student.
-
 School of Life Sciences, Nanjing University, Nanjing, Jiangsu Province, China.
-
 Major: biology. (`Sept. 2015- present`)
 
 ## `Awards`
