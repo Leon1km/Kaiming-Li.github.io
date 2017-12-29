@@ -24,7 +24,7 @@ Silver Medal in iGEM Competition (International Genetically Engineered Machine C
 
 Excellence Award in the Third Exhibition of Undergraduate’s Scientific Research (`2017`).
 
-National project in Student's Platform for Innovation and Entrepreneurship Training Program (`2017`).
+National project in Student's Platform for Innovation and Entrepreneurship Training Program (`2017`).[Details→](http://gjcxcy.bjtu.edu.cn/Index.aspx)
 
 Third Award in the Exhibition of Academic Works of Philosophy and Social Sciences and Second Award in the Exhibition of Academic Works of Sciences and Inventions (`2016`). 
 
