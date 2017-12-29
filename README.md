@@ -37,7 +37,7 @@ Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Con
 
 
 ## `Research Experiences`
-_Advisor:_ [_Prof. Xi Chen_](https://www.researchgate.net/profile/Xi_Chen32)
+_Advisor: Prof. Xi Chen_ [→](https://www.researchgate.net/profile/Xi_Chen32)
 
 The roles of particular microRNAs and siRNAs in the tumorigenesis, development and metastasis of gastric cancer (GC). Therapy to treat ulcerative colitis based a novel delivery system of mTOR siRNA.
 
@@ -47,7 +47,7 @@ Currently studying the functions of noncoding RNAs including microRNAs and siRNA
 
 My work involves biological experiments both in vitro and in vivo such as cell culture, transfection, qRT-PCR, western blotting and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and software with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
 
-_Advisor: Prof. Ruiyong Wang &_ [_Prof. Xiancai Lu_](https://www.researchgate.net/profile/Xiancai_Lu)
+_Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_ [→](https://www.researchgate.net/profile/Xiancai_Lu)
 
 The optimal environmental condition for AMDY2-9-2, an Fe-reducing bacterial strain. The mechanism of the biomineralization of ankerite induced by Fe-reducing bacteria. The effects of pH and temperature on the crystallization of calcium carbonate induced by Pseudomonas Putida. (`Sept. 2015-Jan. 2016`)
 
