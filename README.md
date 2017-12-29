@@ -14,6 +14,8 @@ Nanjing University
 
 Qixia District, Nanjing 210023
 
+(86)13822496187
+
 151140027@smail.nju.edu.cn
 
 ## `Education`
@@ -87,6 +89,8 @@ Interests include swimming, traveling, reading, cooking, hiking and singing.
 
 ### Links
 
-[_`School of Life Sciences (Chinese)`_](http://life.nju.edu.cn/) | [_`School of Life Sciences (English)`_](https://www.nju.edu.cn/EN/7f/76/c7136a163702/page.htm)
+[_`STATE KEY LABORATORY OF PHARMACEUTICAL BIOTECHNOLOGY (SKL)`_](http://biopharm.nju.edu.cn/Default.aspx)
 
-[_`Nanjing University (Chinese)`_](https://www.nju.edu.cn/main.htm) | [_`Nanjing University (English)`_](https://www.nju.edu.cn/EN/)
+[_`School of Life Sciences (Chinese)`_](http://life.nju.edu.cn/) | [_`(English)`_](https://www.nju.edu.cn/EN/7f/76/c7136a163702/page.htm)
+
+[_`Nanjing University (Chinese)`_](https://www.nju.edu.cn/main.htm) | [_`(English)`_](https://www.nju.edu.cn/EN/)
