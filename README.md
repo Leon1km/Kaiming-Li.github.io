@@ -7,6 +7,13 @@ Welcome to
 
 ## **Kaiming Li**
 
+## `School Address`
+Nanjing University
+
+163 Xianlin Road
+
+Qixia District, Nanjing 210023
+
 ## `Education`
 Junior student.
 
@@ -17,11 +24,11 @@ Major: biology. (`Sept. 2015- present`)
 ## `Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (`2017`).
 
-Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), Undergraduates (`2017`). [`Details→`](http://2017.igem.org/Team:NJU-China)
+Silver Medal in iGEM Competition (International Genetically Engineered Machine Competition), Undergraduates (`2017`). _Details_[→](http://2017.igem.org/Team:NJU-China)
 
 Excellence Award in the Third Exhibition of Undergraduate’s Scientific Research (`2017`).
 
-National project in Student's Platform for Innovation and Entrepreneurship Training Program (`2017`).[`Details→`](http://gjcxcy.bjtu.edu.cn/Index.aspx)
+National project in Student's Platform for Innovation and Entrepreneurship Training Program (`2017`)._Details_[→](http://gjcxcy.bjtu.edu.cn/Index.aspx)
 
 Third Award in the Exhibition of Academic Works of Philosophy and Social Sciences and Second Award in the Exhibition of Academic Works of Sciences and Inventions (`2016`). 
 
@@ -37,7 +44,7 @@ Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Con
 
 
 ## `Research Experiences`
-_Advisor: Prof. Xi Chen_ [→](https://www.researchgate.net/profile/Xi_Chen32)
+_Advisor: Prof. Xi Chen_ Details[→](https://www.researchgate.net/profile/Xi_Chen32)
 
 The roles of particular microRNAs and siRNAs in the tumorigenesis, development and metastasis of gastric cancer (GC). Therapy to treat ulcerative colitis based a novel delivery system of mTOR siRNA.
 
@@ -47,7 +54,7 @@ Currently studying the functions of noncoding RNAs including microRNAs and siRNA
 
 My work involves biological experiments both in vitro and in vivo such as cell culture, transfection, qRT-PCR, western blotting and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and software with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
 
-_Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_ [→](https://www.researchgate.net/profile/Xiancai_Lu)
+_Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_ Details[→](https://www.researchgate.net/profile/Xiancai_Lu)
 
 The optimal environmental condition for AMDY2-9-2, an Fe-reducing bacterial strain. The mechanism of the biomineralization of ankerite induced by Fe-reducing bacteria. The effects of pH and temperature on the crystallization of calcium carbonate induced by Pseudomonas Putida. (`Sept. 2015-Jan. 2016`)
 
@@ -70,3 +77,6 @@ Leader, Team of Social Practice, Aug.2016. Volunteered in autistic children reha
 Member, Association of Cantonese and Cantonese Culture. Organized Cantonese singing contest, 2016. 
 
 Interests include swimming, traveling, reading, cooking, hiking and singing.
+
+### Any questions? Feel free to contact me! 
+151140027@smail.nju.edu.cn
