@@ -50,15 +50,9 @@ Currently studying the functions of noncoding RNAs including microRNAs and siRNA
 
 My work involves biological experiments both in vitro and in vivo such as cell culture, DNA/ RNA transfection and extraction, qRT-PCR, western blotting and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and software with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
 
-Advisor: Ruiyong Wang
-Determined the optimal condition of environment for AMDY2-9-2, an iron-reducing bacterial strain.
-Studied the mechanism of the formation of ankerite induced by iron-reducing bacteria. (Nov. 2016-Mar. 2017)
+_Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_
 
-Nanjing University, School of Earth Sciences and Engineering 
-Nanjing, Jiangsu Province
-Advisor: Xiancai Lu
-Studied the effects of pH and temperature on the crystallization of calcium carbonate induced by Pseudomonas Putida.
-Analyzed the experimental data and generalized the optimal condition for Pseudomonas Putida to induce crystallization of calcium carbonate. (Dec. 2015-Jan. 2016)
+The optimal environmental condition for AMDY2-9-2, an Fe-reducing bacterial strain. The mechanism of the biomineralization of ankerite induced by Fe-reducing bacteria. The effects of pH and temperature on the crystallization of calcium carbonate induced by Pseudomonas Putida. (`Sept. 2015-Jan. 2016`)
 
 
 
