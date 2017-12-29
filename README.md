@@ -58,16 +58,17 @@ The interaction between tumors and their microenvironment and the role of cell-c
 
 The functions of noncoding RNAs in crosskingdom regulation. (Epigenetics)
 
-**Bold** and _Italic_ and `Code` text
+## `Activities`
+Officer, Member, Student’s Union of School of Life Sciences, Nanjing University, Sept.2015-Sept.2016.
 
-[Link](url) and ![Image](src)
+Officer, Member, Communist Youth League Committee of School of Life Sciences, Sept.2015-Sept.2016. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Vice Minister, Department of technological innovation and Practice, Communist Youth League Committee of School of Life Sciences, Sept.2016-present. 
 
-### Jekyll Themes
+Captain, Men’s Volleyball Team of School of Life Sciences, Sept.2016-present. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaiming-Li/Kaiming-Li.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Leader, Team of Social Practice, Aug.2016. Volunteered in autistic children rehabilitation agencies. 
 
-### Support or Contact
+Member, Association of Cantonese and Cantonese Culture. Organized Cantonese singing contest, 2016. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Interests include swimming, traveling, reading, cooking, hiking and singing.
