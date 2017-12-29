@@ -81,8 +81,11 @@ Member, Association of Cantonese and Cantonese Culture. Organized Cantonese sing
 Interests include swimming, traveling, reading, cooking, hiking and singing.
 
 ### Any questions? Feel free to contact me! 
-<a href="mailto:151140027@smail.nju.edu.cn">联系我们</a>
+
+<a href="mailto:151140027@smail.nju.edu.cn">Email</a>
 [_`ResearchGate`_](https://www.researchgate.net/profile/Kaiming_Li6) |
 [_`LinkedIn`_](https://www.linkedin.com/in/kaiming-li-424342126/)
 
 ### Links
+
+[_`School of Life Sciences (Chinese)`_](http://life.nju.edu.cn/) | [_`School of Life Sciences (English)`_](https://www.nju.edu.cn/EN/7f/76/c7136a163702/page.htm) | [_`Nanjing University (Chinese)`_](https://www.nju.edu.cn/main.htm) | [_`Nanjing University (English)`_](https://www.nju.edu.cn/EN/) |
