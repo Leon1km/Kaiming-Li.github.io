@@ -25,6 +25,8 @@ School of Life Sciences, Nanjing University, Nanjing, Jiangsu Province, China.
 
 Major: biology. (`Sept. 2015- present`)
 
+GPA of 2016: 4.35/5.00
+
 ## `Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (`2017`).
 
