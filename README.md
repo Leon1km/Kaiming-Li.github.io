@@ -52,9 +52,9 @@ _Advisor: Prof. Xi Chen_ [_`Details→`_](https://www.researchgate.net/profile/X
 
 The roles of particular microRNAs and siRNAs in the tumorigenesis, development and metastasis of gastric cancer (GC). Therapy to treat ulcerative colitis based a novel delivery system of mTOR siRNA.
 
-“Free From Fat”: Targeted exosome-mediated delivery of Bcl-2 siRNA for treatment of obesity. Based on this project, our team NJU-China won a silver medal in iGEM 2017 Competition (International Genetically Engineered Machine Competition).
+“Free From Fat”: Targeted exosome-mediated delivery of BCL-2 siRNA for treatment of obesity. Based on this project, our team NJU-China won a silver medal in iGEM 2017 Competition (International Genetically Engineered Machine Competition).
 
-Currently studying the functions of noncoding RNAs including microRNAs and siRNAs in cell-cell communication and crosskingdom regulation between plant and animal.
+To better understand apoptosis of cells including white adipocytes and tumor cells induced by BCL-2 inhibitors, I plan to carry out further research on BCL-2 protein and apoptosis. Currently studying the functions of noncoding RNAs including microRNAs and siRNAs in cell-cell communication and crosskingdom regulation between plant and animal.
 
 My work involves biological experiments both in vitro and in vivo such as cell culture, transfection, qRT-PCR, western blotting and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and software with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
 
