@@ -25,8 +25,6 @@ School of Life Sciences, Nanjing University, Nanjing, Jiangsu Province, China.
 
 Major: biology. (`Sept. 2015- present`)
 
-GPA of 2016: 4.35/5.00
-
 ## `Awards`
 Second Prize in the 20th Forum of Sciences and Arts of Nanjing University (`2017`).
 
@@ -42,12 +40,11 @@ Third Award in the Preliminary Round of 2016 “FLTRP Cup” English Writing Con
 
 First Prize in the 19th Forum of Sciences and Arts of Nanjing University (`2016`).
 
-Scientific and Technological Innovation Scholarship (`2016`).
+Scientific and Technological Innovation Scholarship (GPA of 2016: 4.35/5.00) (`2016`).
 
 Excellence Award in the “Chembeauty” Photo Competition (`2016`).
 
 Excellence Award in the Preliminary Round of “FLTRP Cup” English Writing Contest (`2015`).
-
 
 ## `Research Experiences`
 _Advisor: Prof. Xi Chen_ [_`Details→`_](https://www.researchgate.net/profile/Xi_Chen32)
@@ -58,7 +55,7 @@ The roles of particular microRNAs and siRNAs in the tumorigenesis, development a
 
 To better understand apoptosis of cells including white adipocytes and tumor cells induced by BCL-2 inhibitors, I plan to carry out further research on BCL-2 protein and apoptosis. Currently studying the functions of noncoding RNAs including microRNAs and siRNAs in cell-cell communication and crosskingdom regulation between plant and animal.
 
-My work involves biological experiments both in vitro and in vivo such as cell culture, transfection, qRT-PCR, western blotting, FCM, SEM, EDS and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and software with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
+My work involves biological experiments both in vitro and in vivo such as cell culture, transfection, qRT-PCR, western blotting, FCM, SEM, EDS and mouse experiments. In addition, I have improved the ability to combine bioinformatic techniques such as the use of databases and softwares including ImageJ, Image-Pro Plus, SigmaPlot and GraphPad with lab experiments to design projects and analyze data and results. (`Oct. 2016-present`)
 
 _Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_ [_`Details→`_](https://www.researchgate.net/profile/Xiancai_Lu)
 
