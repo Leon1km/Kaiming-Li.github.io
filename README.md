@@ -62,7 +62,7 @@ _Advisor: Prof. Ruiyong Wang & Prof. Xiancai Lu_ [_`Details→`_](https://www.re
 The optimal environmental condition for AMDY2-9-2, an Fe-reducing bacterial strain. The mechanism of the biomineralization of ankerite induced by Fe-reducing bacteria. The effects of pH and temperature on the crystallization of calcium carbonate induced by Pseudomonas Putida. (`Sept. 2015-Jan. 2016`)
 
 ## `Research Interest`
-The interaction between tumors and their microenvironment and the role of cell-cell communication in tumorigenesis, development and metastasis of cancer. (Cancer biology)
+The molecular basis of noncoding RNA-DNA and noncoding RNA-protein interactions.How the interactions regulate biogenesis and processing of noncoding RNA.  (Noncoding RNA biology)
 
 The functions of noncoding RNAs in crosskingdom regulation. (Epigenetics)
 
